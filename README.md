@@ -1,6 +1,13 @@
 ![image](https://github.com/bdushime/assignment_1_CalculatorApp/assets/135814208/47289eaa-48a6-42ff-9e27-d58b7f7f1fd9)
 
 
+Names:Dushime Beni Egide
+ID:25285
+
+
+
+
+
 Assignment Calculator App
 This Flutter application is a simple calculator that provides basic arithmetic operations. The user interface consists of a grid of buttons representing digits and operators. It features responsive design and color-coded buttons to enhance usability.
 
